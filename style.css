@@ -1,6 +1,4 @@
-.navbar {
-    padding: 25px 154px !important;
-}
+.navbar { padding: 25px 154px !important; }
 
 .portfolio {
     background: white url('./assets/desktop/header-bg.png');
@@ -13,18 +11,18 @@
 }
 
 .menu {
-    padding-top: 90px;
-    background: #e5e5e5;
-    font-family: Poppins, "Courier New", Courier, monospace;
+  padding-top: 90px;
+  background: #e5e5e5;
+  font-family: Poppins, "Courier New", Courier, monospace;
 }
 
-.-mx-2 {
-    margin: 0 -0.5rem;
+.wor-image {
+  width: 100%; height: 448px;
 }
 
-.connect{ 
-    color: #7f8dfe;
-}
+.-mx-2 { margin: 0 -0.5rem; }
+
+.connect{ color: #7f8dfe; }
 
 .header-title {
   font-weight: 700;
